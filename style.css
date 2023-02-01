@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body::before{
+    display: block;
+    content: "";
+    height: 60px;
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+
+img{
+    border-radius: 10px;
+}
+
